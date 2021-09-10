@@ -16,5 +16,8 @@ Git
 
 git init = Initialise the git 
 git status = check the status
+
+// Useful commond
 git add fileName 
 git commit -m “Message”
+git push -u origin main
