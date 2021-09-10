@@ -1,0 +1,20 @@
+Command Line 
+
+mkdir
+cd 
+ls 
+rm  (-rf)
+whoami
+
+
+Home Work
+- Search the command which can indicate the current directory path
+- 
+
+
+Git 
+
+git init = Initialise the git 
+git status = check the status
+git add fileName 
+git commit -m “Message”
