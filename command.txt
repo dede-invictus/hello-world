@@ -21,3 +21,10 @@ git status = check the status
 git add fileName 
 git commit -m “Message”
 git push -u origin main
+
+// install ssh 
+SSH KEY 
+// Generate SSH KEY in local machine 
+https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
+// Upload to the github account 
+https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
